@@ -8,7 +8,13 @@
 
 <p align="center">creative software studio</p>
 
-## Current project
+## Current projects
+
+### [wheeljack](https://github.com/bildhaus/wheeljack)
+
+A local-first desktop workspace for coding agents, terminals, isolated task lanes, and review.
+
+[Website](https://wheeljack.dev/) · [Releases](https://github.com/bildhaus/wheeljack/releases) · [Source](https://github.com/bildhaus/wheeljack)
 
 ### [milim](https://github.com/bildhaus/milim)
 
